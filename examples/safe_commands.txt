@@ -1,0 +1,12 @@
+# Safe Terminal Commands
+ls -la
+pwd
+whoami
+git status
+git log --oneline
+cat README.md
+mkdir new_folder
+cp file.txt backup.txt
+chmod 755 script.sh
+git commit -m "Update files"
+SELECT * FROM users LIMIT 10;
