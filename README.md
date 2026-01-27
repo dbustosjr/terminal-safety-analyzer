@@ -96,3 +96,16 @@ Building this project taught me:
 ## 📝 License
 
 MIT
+
+## 📚 Citation
+
+If you use this project or mcp-use in your research or work, please cite:
+
+@software{mcp_use2025,
+  author = {Zullo, Pietro and Contributors},
+  title = {MCP-Use: Complete MCP Ecosystem for Python and TypeScript},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/mcp-use/mcp-use}
+}
+
