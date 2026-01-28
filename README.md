@@ -90,8 +90,7 @@ Building this project taught me:
 ## 🔗 Links
 
 - [mcp-use GitHub](https://github.com/mcp-use/mcp-use)
-- [My Project Demo Video](link-to-loom)
-- [MCP Use Job Posting](https://www.ycombinator.com/companies/mcp-use/jobs)
+
 
 ## 📝 License
 
