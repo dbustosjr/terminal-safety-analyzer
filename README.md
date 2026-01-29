@@ -98,7 +98,6 @@ MIT
 
 ## 📚 Citation
 
-
 @software{mcp_use2025,
   author = {Zullo, Pietro and Contributors},
   title = {MCP-Use: Complete MCP Ecosystem for Python and TypeScript},
@@ -106,4 +105,5 @@ MIT
   publisher = {GitHub},
   url = {https://github.com/mcp-use/mcp-use}
 }
+
 
