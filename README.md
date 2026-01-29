@@ -103,7 +103,7 @@ MIT
   title = {MCP-Use: Complete MCP Ecosystem for Python and TypeScript},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/mcp-use/mcp-use}
+  url = https://github.com/mcp-use/mcp-use}
   
 }
 
