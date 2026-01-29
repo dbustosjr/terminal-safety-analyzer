@@ -104,6 +104,7 @@ MIT
   year = {2025},
   publisher = {GitHub},
   url = {https://github.com/mcp-use/mcp-use}
+  
 }
 
 
